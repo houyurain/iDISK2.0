@@ -1,6 +1,9 @@
 ## Download iDISK 2.0 Entities
-To access the entity vocabulary in the iDISK 2.0, you can directly download the .csv files.
-Below is a description of the iDISK 2.0 entity files:
+To access the entity vocabulary in the iDISK 2.0, you can directly download the iDISK 2.0 entities using the following link.
+```
+https://drive.google.com/drive/folders/10mpvyHbRhhsrylw2o3xToT8RihvSWIA4?usp=sharing
+```
+When you unzip the file, you will get the following .csv files.
 ```
 DSI.csv  ## The information about the Dietary Supplement Ingredient (DSI).
 DSP.csv  ## The information about the Dietary Supplement Product (DSP).
