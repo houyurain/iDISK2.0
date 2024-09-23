@@ -32,7 +32,7 @@ The iDISK 2.0 data includes the following key entity types:
 - `relationships.csv`: Includes the relationships between all entities (e.g., DSI-Disease, DSI-Drug).
 
 ## Citation
-"""
+```
 @article{hou2024enhancing,
   title={Enhancing Dietary Supplement Question Answer via Retrieval-Augmented Generation (RAG) with LLM},
   author={Hou, Yu and Zhang, Rui},
@@ -41,4 +41,4 @@ The iDISK 2.0 data includes the following key entity types:
   year={2024},
   publisher={Cold Spring Harbor Laboratory Press}
 }
-"""
+```
