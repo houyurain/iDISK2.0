@@ -25,6 +25,15 @@ SS.csv   ## The information about the Sign or Symptom (SS).
 | Sign / Symptoms               | 425         |
 | Total                         | 174,317     | -->
 
+| Concept                       | # of entity |
+| ----------------------------- | ----------- |
+| Dietary Supplement Ingredient | 7,876       |
+| Dietary Supplement Product    | 163,806     |
+| Drug                          | 214         |
+| Disease                       | 172         |
+| Sign / Symptoms               | 392         |
+| Total                         | 172,460     | 
+
 ## iDISK 2.0 entities vocabulary
 Each row in the iDISK 2.0 entity vocabulary describes an entity, and each column in this row records the entity's attributes (such as DSI's background information, etc.). For example,
 | iDISK_ID  | Name           | CUI      | Background                        |
