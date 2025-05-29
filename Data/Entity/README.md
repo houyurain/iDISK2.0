@@ -1,7 +1,7 @@
 ## Download iDISK 2.0 Entities
 To access the entity vocabulary in the iDISK 2.0, you can directly download the iDISK 2.0 entities using the following link.
 ```
-https://drive.google.com/drive/folders/10mpvyHbRhhsrylw2o3xToT8RihvSWIA4?usp=sharing
+https://drive.google.com/drive/folders/1KjXScG24YZ0qeBOF0S1Tb0lVqVDdJjgp?usp=sharing
 ```
 When you unzip the file, you will get the following .csv files.
 ```
@@ -10,11 +10,11 @@ DSP.csv  ## The information about the Dietary Supplement Product (DSP).
 D.csv    ## The information about the Drug.
 Dis.csv  ## The information about the Disease.
 SS.csv   ## The information about the Sign or Symptom (SS).
-SOC.csv  ## The information about the System Organ Class (SOC).
-TC.csv   ## The information about the Therapeutic Class (TC).
+<!-- SOC.csv  ## The information about the System Organ Class (SOC). -->
+<!-- TC.csv   ## The information about the Therapeutic Class (TC). -->
 ```
 ## The statistics of iDISK 2.0 entities
-| Concept                       | # of entity |
+<!-- | Concept                       | # of entity |
 | ----------------------------- | ----------- |
 | Dietary Supplement Ingredient | 8,091       |
 | Dietary Supplement Product    | 163,806     |
@@ -23,7 +23,7 @@ TC.csv   ## The information about the Therapeutic Class (TC).
 | Therapeutic Class             | 567         |
 | System Organ Class            | 17          |
 | Sign / Symptoms               | 425         |
-| Total                         | 174,317     |
+| Total                         | 174,317     | -->
 
 ## iDISK 2.0 entities vocabulary
 Each row in the iDISK 2.0 entity vocabulary describes an entity, and each column in this row records the entity's attributes (such as DSI's background information, etc.). For example,
