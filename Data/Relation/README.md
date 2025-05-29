@@ -10,7 +10,7 @@ dsp_dsi.csv  ## The relationships between the Dietary Supplement Product (DSP) a
 dsi_dis.csv  ## The relationships between the Dietary Supplement Ingredient (DSI) and the Disease.
 dsi_d.csv    ## The relationships between the Dietary Supplement Ingredient (DSI) and the Drug.
 dsi_ss.csv  ## The relationships between the Dietary Supplement Ingredient (DSI) and the Sign or Symptom (SS).
-<! --dsi_SOC.csv  ## The relationships between the Dietary Supplement Ingredient (DSI) and the System Organ Class (SOC).
+<!-- dsi_SOC.csv  ## The relationships between the Dietary Supplement Ingredient (DSI) and the System Organ Class (SOC).
 dsi_TC.csv   ## The relationships between the Dietary Supplement Ingredient (DSI) and the Therapeutic Class (TC). -->
 ```
 ## The statistics of iDISK 2.0 entities
