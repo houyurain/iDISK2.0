@@ -7,7 +7,7 @@ Welcome to the official data-sharing repository for **iDISK 2.0**, the Integrate
 **iDISK 2.0** is a structured knowledgebase designed to offer detailed, up-to-date dietary supplement (DS) information. It integrates data from multiple sources, creating a reliable resource for researchers, healthcare providers, and professionals seeking accurate dietary supplement data. The data files available in this repository include structured entities and their relationships, formatted for easy access and further analysis.
 
 ### Key Features
-- Integration of data from **DSLD**, **LNHPD**, **MSKCC**, and **NMCD**.
+- Integration of data from **DSLD**, **LNHPD**, and **MSKCC**. <!--, and **NMCD**. -->
 - Comprehensive dataset covering **dietary supplement ingredients (DSI)**, **products (DSP)**, **diseases**, **drugs**, **symptoms**, and related relationships.
 - Data cleaning and normalization for consistency.
 - Files are provided in CSV format for easy use.
@@ -20,8 +20,8 @@ The iDISK 2.0 data includes the following key entity types:
 - **Diseases**
 - **Drugs**
 - **Symptoms**
-- **Therapeutic Classes (TC)**
-- **System Organ Classes (SOC)**
+<!-- - **Therapeutic Classes (TC)** -->
+<!-- - - **System Organ Classes (SOC)** -->
 
 ### File Descriptions:
 - `dsi.csv`: Contains data on dietary supplement ingredients, including names, source materials, safety information, and related diseases, drugs, and symptoms.
@@ -33,12 +33,13 @@ The iDISK 2.0 data includes the following key entity types:
 
 ## Citation
 ```
-@article{hou2024enhancing,
-  title={Enhancing Dietary Supplement Question Answer via Retrieval-Augmented Generation (RAG) with LLM},
-  author={Hou, Yu and Zhang, Rui},
-  journal={medRxiv},
-  pages={2024--09},
-  year={2024},
-  publisher={Cold Spring Harbor Laboratory Press}
+@article{hou2025improving,
+  title={Improving dietary supplement information retrieval: Development of a retrieval-augmented generation system with large language models},
+  author={Hou, Yu and Bishop, Jeffrey R and Liu, Hongfang and Zhang, Rui},
+  journal={Journal of medical Internet research},
+  volume={27},
+  pages={e67677},
+  year={2025},
+  publisher={JMIR Publications Toronto, Canada}
 }
 ```
