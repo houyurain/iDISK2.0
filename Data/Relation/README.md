@@ -1,7 +1,7 @@
 ## Download iDISK 2.0 Relationships
 To access the relationships in the iDISK 2.0, you can directly download the iDISK 2.0 relation using the following link.
-```
 <!-- https://drive.google.com/drive/folders/1XTtb4KKxUXfqG8tZTbvxtwv7IDUHe424?usp=sharing -->
+```
 https://drive.google.com/drive/folders/1tGyXTR5R5vuiPOZXlVU7xLlp1Ndwv7vY?usp=sharing
 ```
 When you unzip the file, you will get the following .csv files.
@@ -10,9 +10,9 @@ dsp_dsi.csv  ## The relationships between the Dietary Supplement Product (DSP) a
 dsi_dis.csv  ## The relationships between the Dietary Supplement Ingredient (DSI) and the Disease.
 dsi_d.csv    ## The relationships between the Dietary Supplement Ingredient (DSI) and the Drug.
 dsi_ss.csv  ## The relationships between the Dietary Supplement Ingredient (DSI) and the Sign or Symptom (SS).
+```
 <!-- dsi_SOC.csv  ## The relationships between the Dietary Supplement Ingredient (DSI) and the System Organ Class (SOC). -->
 <!-- dsi_TC.csv   ## The relationships between the Dietary Supplement Ingredient (DSI) and the Therapeutic Class (TC). -->
-```
 ## The statistics of iDISK 2.0 entities
 <!-- | Relationship                   | # of entity |
 | ------------------------------ | ----------- |
