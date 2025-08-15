@@ -2,7 +2,7 @@
 To access the relationships in the iDISK 2.0, you can directly download the iDISK 2.0 relation using the following link.
 <!-- https://drive.google.com/drive/folders/1XTtb4KKxUXfqG8tZTbvxtwv7IDUHe424?usp=sharing -->
 ```
-https://drive.google.com/drive/folders/1tGyXTR5R5vuiPOZXlVU7xLlp1Ndwv7vY?usp=sharing
+https://drive.google.com/drive/folders/1XTtb4KKxUXfqG8tZTbvxtwv7IDUHe424?usp=sharing
 ```
 When you unzip the file, you will get the following .csv files.
 ```
